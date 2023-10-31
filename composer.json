@@ -17,7 +17,7 @@
   "require": {
     "php": ">=5.3",
 	"psr/log": "^3.0",
-    "monolog/monolog": "1.*",
+    "monolog/monolog": "1.* || ^2.0 || ^3.0",
     "theorchard/monolog-cascade": "~0.2"
   },
   "autoload": {
