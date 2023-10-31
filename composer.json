@@ -16,6 +16,7 @@
   ],
   "require": {
     "php": ">=5.3",
+	"psr/log": "^3.0",
     "monolog/monolog": "1.*",
     "theorchard/monolog-cascade": "~0.2"
   },
